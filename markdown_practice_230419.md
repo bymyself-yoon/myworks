@@ -4,3 +4,12 @@
 #### Header
 ##### Header
 ###### Header
+
+*italic* (*) 이거 쓰면 기울어지나 오
+_italic_ (_) 이거도 됨? 오오오
+
+_italic_(_) 굳이 안띄워도되는건가
+
+
+_italic_ 이렇게하면안되네
+*italic*(*) 기울어져랏
